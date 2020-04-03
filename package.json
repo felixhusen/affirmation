@@ -1,0 +1,47 @@
+{
+  "name": "PAffirmation",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.6.1",
+    "react-native": "^0.57.7",
+    "react-native-audio-exoplayer": "github:felixhusen/react-native-audio-exoplayer",
+    "react-native-audio-recorder-player": "^2.1.1",
+    "react-native-check-box": "^2.1.7",
+    "react-native-draggable-flatlist": "^1.1.5",
+    "react-native-fs": "^2.13.3",
+    "react-native-gesture-handler": "^1.0.10",
+    "react-native-image-picker": "^0.27.2",
+    "react-native-material-dialog": "^0.7.6",
+    "react-native-material-menu": "^0.4.2",
+    "react-native-material-textfield": "^0.12.0",
+    "react-native-material-ui": "^1.30.1",
+    "react-native-push-notification": "^3.1.2",
+    "react-native-sortable-grid": "^2.0.0",
+    "react-native-sound": "^0.10.9",
+    "react-native-swiper": "^1.5.14",
+    "react-native-vector-icons": "^6.1.0",
+    "react-navigation": "^3.0.7",
+    "realm": "^2.21.1",
+    "rn-sliding-up-panel": "^1.3.1",
+    "websqlite": "^1.0.7"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.50.0",
+    "react-test-renderer": "16.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "app/assets/fonts"
+    ]
+  }
+}

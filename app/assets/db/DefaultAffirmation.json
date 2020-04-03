@@ -1,0 +1,745 @@
+[
+
+
+	{
+		"id": 1,
+        "category_id": 1,
+        "text": "I love myself more and more every passing moment",
+        "image_path": "{ \"uri\": \"img1\" }",
+        "voice_path": "",
+        "position": 1
+	},
+	{
+		"id": 2,
+        "category_id": 1,
+        "text": "I experience inner happiness every day in many ways",
+        "image_path": "{ \"uri\": \"img2\" }",
+        "voice_path": "",
+        "position": 2
+	},
+	{
+		"id": 3,
+        "category_id": 1,
+        "text": "I attract happy people in my life",
+        "image_path": "{ \"uri\": \"img3\" }",
+        "voice_path": "",
+        "position": 3
+	},
+	{
+		"id": 4,
+        "category_id": 1,
+        "text": "I radiate love and happiness every moment",
+        "image_path": "{ \"uri\": \"img4\" }",
+        "voice_path": "",
+        "position": 4
+	},
+	{
+		"id": 5,
+        "category_id": 1,
+        "text": "I choose to be happy and fulfilled every day",
+        "image_path": "{ \"uri\": \"img5\" }",
+        "voice_path": "",
+        "position": 5
+	},
+	{
+		"id": 6,
+        "category_id": 1,
+        "text": "My life is filled with joyous memories",
+        "image_path": "{ \"uri\": \"img6\" }",
+        "voice_path": "",
+        "position": 6
+	},
+	{
+		"id": 7,
+        "category_id": 1,
+        "text": "Being happy comes to me naturally",
+        "image_path": "{ \"uri\": \"img7\" }",
+        "voice_path": "",
+        "position": 7
+	},
+	{
+		"id": 8,
+        "category_id": 1,
+        "text": "I practice kindness everyday to make others happy",
+        "image_path": "{ \"uri\": \"img8\" }",
+        "voice_path": "",
+        "position": 8
+	},
+	{
+		"id": 9,
+        "category_id": 1,
+        "text": "I feel eternal bliss every morning and thank my creator for this magnificent life",
+        "image_path": "{ \"uri\": \"img9\" }",
+        "voice_path": "",
+        "position": 9
+	},
+	{
+		"id": 10,
+        "category_id": 1,
+        "text": "I forgive them who may have harmed me in any way",
+        "image_path": "{ \"uri\": \"img10\" }",
+        "voice_path": "",
+        "position": 10
+	},
+	{
+		"id": 11,
+        "category_id": 1,
+        "text": "I focus on good things in my life and more good things happen",
+        "image_path": "{ \"uri\": \"img11\" }",
+        "voice_path": "",
+        "position": 11
+	},
+	{
+		"id": 12,
+        "category_id": 1,
+        "text": "I do everything with great love and passion",
+        "image_path": "{ \"uri\": \"img12\" }",
+        "voice_path": "",
+        "position": 12
+	},
+	{
+		"id": 13,
+        "category_id": 1,
+        "text": "I choose to be happy today",
+        "image_path": "{ \"uri\": \"img13\" }",
+        "voice_path": "",
+        "position": 13
+	},
+	{
+		"id": 14,
+        "category_id": 1,
+        "text": "My life is full of happy memories",
+        "image_path": "{ \"uri\": \"img14\" }",
+        "voice_path": "",
+        "position": 14
+	},
+	{
+		"id": 15,
+        "category_id": 1,
+        "text": "I have everything I need to be happy now",
+        "image_path": "{ \"uri\": \"img15\" }",
+        "voice_path": "",
+        "position": 15
+	},
+
+
+
+
+
+	{
+		"id": 16,
+        "category_id": 2,
+        "text": "I possess great physical mental emotional and spiritual energy",
+        "image_path": "{ \"uri\": \"img1\" }",
+        "voice_path": "",
+        "position": 1
+	},
+	{
+		"id": 17,
+        "category_id": 2,
+        "text": "My mind and body are becoming healthier every day",
+        "image_path": "{ \"uri\": \"img2\" }",
+        "voice_path": "",
+        "position": 2
+	},
+	{
+		"id": 18,
+        "category_id": 2,
+        "text": "I use my physical and mental vitality to achieve my life goals",
+        "image_path": "{ \"uri\": \"img3\" }",
+        "voice_path": "",
+        "position": 3
+	},
+	{
+		"id": 19,
+        "category_id": 2,
+        "text": "I enjoy peak mental and physical energy everyday",
+        "image_path": "{ \"uri\": \"img4\" }",
+        "voice_path": "",
+        "position": 4
+	},
+	{
+		"id": 20,
+        "category_id": 2,
+        "text": "I eat healthy and nutritious food daily to keep myself healthy",
+        "image_path": "{ \"uri\": \"img5\" }",
+        "voice_path": "",
+        "position": 5
+	},
+	{
+		"id": 21,
+        "category_id": 2,
+        "text": "I enjoy doing physical and mental exercise daily",
+        "image_path": "{ \"uri\": \"img6\" }",
+        "voice_path": "",
+        "position": 6
+	},
+	{
+		"id": 22,
+        "category_id": 2,
+        "text": "I love and appreciate my body",
+        "image_path": "{ \"uri\": \"img7\" }",
+        "voice_path": "",
+        "position": 7
+	},
+	{
+		"id": 23,
+        "category_id": 2,
+        "text": "I possess great immune system",
+        "image_path": "{ \"uri\": \"img8\" }",
+        "voice_path": "",
+        "position": 8
+	},
+	{
+		"id": 24,
+        "category_id": 2,
+        "text": "I take responsibility for my health and wellbeing",
+        "image_path": "{ \"uri\": \"img9\" }",
+        "voice_path": "",
+        "position": 9
+	},
+	{
+		"id": 25,
+        "category_id": 2,
+        "text": "I am committed towards keeping myself in peak mental and physical state",
+        "image_path": "{ \"uri\": \"img10\" }",
+        "voice_path": "",
+        "position": 10
+	},
+	{
+		"id": 26,
+        "category_id": 2,
+        "text": "My mind and body get all the nutrients it need to stay healthy",
+        "image_path": "{ \"uri\": \"img11\" }",
+        "voice_path": "",
+        "position": 11
+	},
+	{
+		"id": 27,
+        "category_id": 2,
+        "text": "I discover ways to optimize my health",
+        "image_path": "{ \"uri\": \"img12\" }",
+        "voice_path": "",
+        "position": 12
+	},
+	{
+		"id": 28,
+        "category_id": 2,
+        "text": "I enjoy perfect health",
+        "image_path": "{ \"uri\": \"img13\" }",
+        "voice_path": "",
+        "position": 13
+	},
+	{
+		"id": 29,
+        "category_id": 2,
+        "text": "Every organ in my body is healthy",
+        "image_path": "{ \"uri\": \"img14\" }",
+        "voice_path": "",
+        "position": 14
+	},
+	{
+		"id": 30,
+        "category_id": 2,
+        "text": "I am surrounded by people who encourage and support my healthy lifestyle",
+        "image_path": "{ \"uri\": \"img15\" }",
+        "voice_path": "",
+        "position": 15
+	},
+
+
+
+	{
+		"id": 31,
+        "category_id": 3,
+        "text": "I enjoy success in all areas of my life",
+        "image_path": "{ \"uri\": \"img1\" }",
+        "voice_path": "",
+        "position": 1
+	},
+	{
+		"id": 32,
+        "category_id": 3,
+        "text": "I see happiness and success everywhere",
+        "image_path": "{ \"uri\": \"img2\" }",
+        "voice_path": "",
+        "position": 2
+	},
+	{
+		"id": 33,
+        "category_id": 3,
+        "text": "Everyday in everyway I am becoming more successful",
+        "image_path": "{ \"uri\": \"img3\" }",
+        "voice_path": "",
+        "position": 3
+	},
+	{
+		"id": 34,
+        "category_id": 3,
+        "text": "I use my intelligence and wisdom for exponential success",
+        "image_path": "{ \"uri\": \"img4\" }",
+        "voice_path": "",
+        "position": 4
+	},
+	{
+		"id": 35,
+        "category_id": 3,
+        "text": "People acknowledge and appreciate my work",
+        "image_path": "{ \"uri\": \"img5\" }",
+        "voice_path": "",
+        "position": 5
+	},
+	{
+		"id": 36,
+        "category_id": 3,
+        "text": "I learn and practice new success habits daily",
+        "image_path": "{ \"uri\": \"img6\" }",
+        "voice_path": "",
+        "position": 6
+	},
+	{
+		"id": 37,
+        "category_id": 3,
+        "text": "I achieve all my goals faster and easier",
+        "image_path": "{ \"uri\": \"img7\" }",
+        "voice_path": "",
+        "position": 7
+	},
+	{
+		"id": 38,
+        "category_id": 3,
+        "text": "Innovative and creative ideas come to me easily",
+        "image_path": "{ \"uri\": \"img8\" }",
+        "voice_path": "",
+        "position": 8
+	},
+	{
+		"id": 39,
+        "category_id": 3,
+        "text": "I feel confident and optimistic in all areas of my life",
+        "image_path": "{ \"uri\": \"img9\" }",
+        "voice_path": "",
+        "position": 9
+	},
+	{
+		"id": 40,
+        "category_id": 3,
+        "text": "I achieve whatever I set my mind to",
+        "image_path": "{ \"uri\": \"img10\" }",
+        "voice_path": "",
+        "position": 10
+	},
+	{
+		"id": 41,
+        "category_id": 3,
+        "text": "I use high level of discipline commitment and perseverance to become successful daily",
+        "image_path": "{ \"uri\": \"img11\" }",
+        "voice_path": "",
+        "position": 11
+	},
+	{
+		"id": 42,
+        "category_id": 3,
+        "text": "I am committed towards doing most productive tasks everyday",
+        "image_path": "{ \"uri\": \"img12\" }",
+        "voice_path": "",
+        "position": 12
+	},
+	{
+		"id": 43,
+        "category_id": 3,
+        "text": "I am a success magnate",
+        "image_path": "{ \"uri\": \"img13\" }",
+        "voice_path": "",
+        "position": 13
+	},
+	{
+		"id": 44,
+        "category_id": 3,
+        "text": "I continuously enhance all areas of my life and feel incredibly successful",
+        "image_path": "{ \"uri\": \"img14\" }",
+        "voice_path": "",
+        "position": 14
+	},
+	{
+		"id": 45,
+        "category_id": 3,
+        "text": "My growth mindset helps me to succeed easily with confidence",
+        "image_path": "{ \"uri\": \"img15\" }",
+        "voice_path": "",
+        "position": 15
+	},
+
+
+
+
+	{
+		"id": 46,
+        "category_id": 4,
+        "text": "I deserve to be rich and prosperous",
+        "image_path": "{ \"uri\": \"img1\" }",
+        "voice_path": "",
+        "position": 1
+	},
+	{
+		"id": 47,
+        "category_id": 4,
+        "text": "I am gifted at manifesting wealth",
+        "image_path": "{ \"uri\": \"img2\" }",
+        "voice_path": "",
+        "position": 2
+	},
+	{
+		"id": 48,
+        "category_id": 4,
+        "text": "My wealth is increasing every passing day",
+        "image_path": "{ \"uri\": \"img3\" }",
+        "voice_path": "",
+        "position": 3
+	},
+	{
+		"id": 49,
+        "category_id": 4,
+        "text": "I take right decisions that leads to more wealth prosperity and abundance",
+        "image_path": "{ \"uri\": \"img4\" }",
+        "voice_path": "",
+        "position": 4
+	},
+	{
+		"id": 50,
+        "category_id": 4,
+        "text": "I attract new wealth opportunities on an ongoing basis leading to more wealth",
+        "image_path": "{ \"uri\": \"img5\" }",
+        "voice_path": "",
+        "position": 5
+	},
+	{
+		"id": 51,
+        "category_id": 4,
+        "text": "I am highly skilled and successful at creating wealth",
+        "image_path": "{ \"uri\": \"img6\" }",
+        "voice_path": "",
+        "position": 6
+	},
+	{
+		"id": 52,
+        "category_id": 4,
+        "text": "I am savvy and strategic investor",
+        "image_path": "{ \"uri\": \"img7\" }",
+        "voice_path": "",
+        "position": 7
+	},
+	{
+		"id": 53,
+        "category_id": 4,
+        "text": "Money comes to me easily and effortlessly",
+        "image_path": "{ \"uri\": \"img8\" }",
+        "voice_path": "",
+        "position": 8
+	},
+	{
+		"id": 54,
+        "category_id": 4,
+        "text": "My potential to manifest wealth is magical",
+        "image_path": "{ \"uri\": \"img9\" }",
+        "voice_path": "",
+        "position": 9
+	},
+	{
+		"id": 55,
+        "category_id": 4,
+        "text": "Wealth creation is normal part of my life",
+        "image_path": "{ \"uri\": \"img10\" }",
+        "voice_path": "",
+        "position": 10
+	},
+	{
+		"id": 56,
+        "category_id": 4,
+        "text": "I always have plenty of money to do whatever I want to do",
+        "image_path": "{ \"uri\": \"img11\" }",
+        "voice_path": "",
+        "position": 11
+	},
+	{
+		"id": 57,
+        "category_id": 4,
+        "text": "My subconscious mind guides me to achieve all my financial goals",
+        "image_path": "{ \"uri\": \"img12\" }",
+        "voice_path": "",
+        "position": 12
+	},
+	{
+		"id": 58,
+        "category_id": 4,
+        "text": "Money expands my life’s opportunities and experiences",
+        "image_path": "{ \"uri\": \"img13\" }",
+        "voice_path": "",
+        "position": 13
+	},
+	{
+		"id": 59,
+        "category_id": 4,
+        "text": "I am open and receptive to all the wealth life offers me",
+        "image_path": "{ \"uri\": \"img14\" }",
+        "voice_path": "",
+        "position": 14
+	},
+	{
+		"id": 60,
+        "category_id": 4,
+        "text": "I am practical with money and manage it wisely",
+        "image_path": "{ \"uri\": \"img15\" }",
+        "voice_path": "",
+        "position": 15
+	},
+
+
+
+
+	{
+		"id": 61,
+        "category_id": 5,
+        "text": "I enjoy loving and supporting my loved ones",
+        "image_path": "{ \"uri\": \"img1\" }",
+        "voice_path": "",
+        "position": 1
+	},
+	{
+		"id": 62,
+        "category_id": 5,
+        "text": "Universal energy loves and heals me of any past emotional pain",
+        "image_path": "{ \"uri\": \"img2\" }",
+        "voice_path": "",
+        "position": 2
+	},
+	{
+		"id": 63,
+        "category_id": 5,
+        "text": "I am immensely grateful for sharing this beautiful life with my friends and families",
+        "image_path": "{ \"uri\": \"img3\" }",
+        "voice_path": "",
+        "position": 3
+	},
+	{
+		"id": 64,
+        "category_id": 5,
+        "text": "My life is full of caring loving and supporting people",
+        "image_path": "{ \"uri\": \"img4\" }",
+        "voice_path": "",
+        "position": 4
+	},
+	{
+		"id": 65,
+        "category_id": 5,
+        "text": "Every day I feel closer to my partner",
+        "image_path": "{ \"uri\": \"img5\" }",
+        "voice_path": "",
+        "position": 5
+	},
+	{
+		"id": 66,
+        "category_id": 5,
+        "text": "I do my best to build a healthy relationship with my partner",
+        "image_path": "{ \"uri\": \"img6\" }",
+        "voice_path": "",
+        "position": 6
+	},
+	{
+		"id": 67,
+        "category_id": 5,
+        "text": "I have unconditional love and compassion for everyone in my life",
+        "image_path": "{ \"uri\": \"img7\" }",
+        "voice_path": "",
+        "position": 7
+	},
+	{
+		"id": 68,
+        "category_id": 5,
+        "text": "My heart is open to giving and receiving love",
+        "image_path": "{ \"uri\": \"img8\" }",
+        "voice_path": "",
+        "position": 8
+	},
+	{
+		"id": 69,
+        "category_id": 5,
+        "text": "I enjoy giving and receiving love",
+        "image_path": "{ \"uri\": \"img9\" }",
+        "voice_path": "",
+        "position": 9
+	},
+	{
+		"id": 70,
+        "category_id": 5,
+        "text": "Loving and being loved feels wonderful",
+        "image_path": "{ \"uri\": \"img10\" }",
+        "voice_path": "",
+        "position": 10
+	},
+	{
+		"id": 71,
+        "category_id": 5,
+        "text": "I have healthy relationships in all areas of my life now",
+        "image_path": "{ \"uri\": \"img11\" }",
+        "voice_path": "",
+        "position": 11
+	},
+	{
+		"id": 72,
+        "category_id": 5,
+        "text": "I attract wonderful positive people into my world",
+        "image_path": "{ \"uri\": \"img12\" }",
+        "voice_path": "",
+        "position": 12
+	},
+	{
+		"id": 73,
+        "category_id": 5,
+        "text": "I love openly honestly unconditionally and compassionately",
+        "image_path": "{ \"uri\": \"img13\" }",
+        "voice_path": "",
+        "position": 13
+	},
+	{
+		"id": 74,
+        "category_id": 5,
+        "text": "My partner believes in me and supports me fully",
+        "image_path": "{ \"uri\": \"img14\" }",
+        "voice_path": "",
+        "position": 14
+	},
+	{
+		"id": 75,
+        "category_id": 5,
+        "text": "I am worthy of love",
+        "image_path": "{ \"uri\": \"img15\" }",
+        "voice_path": "",
+        "position": 15
+	},
+
+
+
+	{
+		"id": 76,
+        "category_id": 6,
+        "text": "I deserve to be slim energetic and fit",
+        "image_path": "{ \"uri\": \"img1\" }",
+        "voice_path": "",
+        "position": 1
+	},
+	{
+		"id": 77,
+        "category_id": 6,
+        "text": "Achieving my weight loss goal is becoming easier every day",
+        "image_path": "{ \"uri\": \"img2\" }",
+        "voice_path": "",
+        "position": 2
+	},
+	{
+		"id": 78,
+        "category_id": 6,
+        "text": "My body is a fat burning machine",
+        "image_path": "{ \"uri\": \"img3\" }",
+        "voice_path": "",
+        "position": 3
+	},
+	{
+		"id": 79,
+        "category_id": 6,
+        "text": "After a good workout I feel incredibly wonderful",
+        "image_path": "{ \"uri\": \"img4\" }",
+        "voice_path": "",
+        "position": 4
+	},
+	{
+		"id": 80,
+        "category_id": 6,
+        "text": "Being slim and fit makes me feel great",
+        "image_path": "{ \"uri\": \"img5\" }",
+        "voice_path": "",
+        "position": 5
+	},
+	{
+		"id": 81,
+        "category_id": 6,
+        "text": "I am very passionate about keeping myself fit and slim",
+        "image_path": "{ \"uri\": \"img6\" }",
+        "voice_path": "",
+        "position": 6
+	},
+	{
+		"id": 82,
+        "category_id": 6,
+        "text": "I am committed towards doing physical exercise regularly to keep my body slim and fit",
+        "image_path": "{ \"uri\": \"img7\" }",
+        "voice_path": "",
+        "position": 7
+	},
+	{
+		"id": 83,
+        "category_id": 6,
+        "text": "Eating healthy is becoming easy because I love how it makes me feel",
+        "image_path": "{ \"uri\": \"img8\" }",
+        "voice_path": "",
+        "position": 8
+	},
+	{
+		"id": 84,
+        "category_id": 6,
+        "text": "I manage my weight easily by healthy eating and exercising",
+        "image_path": "{ \"uri\": \"img9\" }",
+        "voice_path": "",
+        "position": 9
+	},
+	{
+		"id": 85,
+        "category_id": 6,
+        "text": "I am motivated to do all necessary things to be at my ideal weight",
+        "image_path": "{ \"uri\": \"img10\" }",
+        "voice_path": "",
+        "position": 10
+	},
+	{
+		"id": 86,
+        "category_id": 6,
+        "text": "I am completely focused on achieving my ideal weight",
+        "image_path": "{ \"uri\": \"img11\" }",
+        "voice_path": "",
+        "position": 11
+	},
+	{
+		"id": 87,
+        "category_id": 6,
+        "text": "People around me notice my slimmer body",
+        "image_path": "{ \"uri\": \"img12\" }",
+        "voice_path": "",
+        "position": 12
+	},
+	{
+		"id": 88,
+        "category_id": 6,
+        "text": "I now clearly see myself at my ideal weight",
+        "image_path": "{ \"uri\": \"img13\" }",
+        "voice_path": "",
+        "position": 13
+	},
+	{
+		"id": 89,
+        "category_id": 6,
+        "text": "I am becoming fitter and stronger everyday through exercise",
+        "image_path": "{ \"uri\": \"img14\" }",
+        "voice_path": "",
+        "position": 14
+	},
+	{
+		"id": 90,
+        "category_id": 6,
+        "text": "I look and feel great",
+        "image_path": "{ \"uri\": \"img15\" }",
+        "voice_path": "",
+        "position": 15
+	}
+
+
+]
